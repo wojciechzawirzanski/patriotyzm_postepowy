@@ -1,0 +1,12 @@
+baseURL = 'https://example.org/'
+languageCode = 'pl-PL'
+defaultContentLanguage = "pl"
+title = 'Patriotyzm postępowy'
+theme = "PaperMod"
+
+[params]
+  ShowSidebar = true
+  ShowTags = true
+  ShowCategories = true
+  ShowReadingTime = true
+
