@@ -5,8 +5,6 @@ title = 'Patriotyzm postępowy'
 theme = "PaperMod"
 
 [params]
-  ShowSidebar = true
-  ShowTags = true
-  ShowCategories = true
-  ShowReadingTime = true
-
+    disableTitleCapitalization = true
+    disableArchiveTitleStyling  = true
+    customCss = ["css/custom.css"]

@@ -1,0 +1,33 @@
+body {
+    font-family: initial;
+    --chr-def-color: #111;
+    --chr-def-bg-color: #dbd7d1;
+    /*
+    color: var(--chr-def-color);
+    background-color: var(--chr-def-bg-color);
+    */
+}
+/*
+* {
+    color: var(--chr-def-color);
+    background-color: var(--chr-def-bg-color);
+}
+.theme--light .nav__list{
+    color: var(--chr-def-color);
+    background-color: var(--chr-def-bg-color);
+}
+*/
+* {
+    letter-spacing: initial;
+}
+.theme--light * {
+    color: var(--chr-def-color);
+    background-color: var(--chr-def-bg-color);
+}
+.theme--light .nav__list {
+    color: var(--chr-def-color);
+    background-color: var(--chr-def-bg-color);
+}
+.sidebar{
+    overflow-y: auto;
+}
