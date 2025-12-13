@@ -5,12 +5,12 @@ title = 'Dostęp do broni już jest łatwiejszy w Polsce niż w Stanach Zjednoc
 tags = ["broń", "Polska", "Ameryka", "prawo", "samoobrona"]
 +++
 
-Polscy fanatycy broni palnej wykrzykujący, że dostęp do niej jest niezbywalnym
-prawem człowieka, często stawiają legislację Stanów Zjednoczonych jako wzór do
+Choć w Polsce już mamy swobodny dostęp do broni, nie brak krzykaczy, którzy
+twierdzą inaczej. Często stawiają oni legislację Stanów Zjednoczonych jako wzór do
 naśladowania. Można znaleźć stany, w których rzeczywiście z powodu ideologii lub
 ich wiejskiego charakteru podejście do broni jest bardzo liberalne. Jednak jeśli
-przyjrzymy się najbogatszym i najbardziej rozwiniętym stanom, okaże się, że o
-wiele trudniej tam nabyć, posiadać i nosić broń palną niż w Polsce.
+przyjrzymy się najbogatszym, najludniejszym i najbardziej rozwiniętym stanom, okaże się, że w Polsce o
+wiele łatwiej nabyć i nosić broń palną niż tam.
 
 # Pozwolenia na broń
 
@@ -38,7 +38,7 @@ społecznościowych.[^ny_private]
 
 W Polsce bardzo popularny rodzaj pozwolenia -
 pozwolenie kolekcjonerskie - nie wymaga żadnego obowiązkowego szkolenia. Trzeba
-zdać na policji egzamin z posługiwania się bronią, ale to, jak się do niego
+zdać na policji egzamin ze znajomości przepisów i posługiwania się bronią, ale to, jak się do niego
 przygotujemy, pozostaje w naszej gestii. Rozmowa z policjantem również jest
 konieczna, ale sprowadza się do krótkiej, uprzednio umówionej, wizyty
 dzielnicowego w domu.
@@ -62,8 +62,8 @@ Kolejnym utrudnieniem, choć mniej dotkliwym, jest obowiązkowy czas oczekiwania
 na nowo zakupioną broń. W Polsce nie ma takiego mechanizmu, stąd w internecie
 możemy znaleźć rady dla strzelców, aby nie dali się namówić charyzmatycznemu
 sprzedawcy do zakupu czegoś zupełnie innego i droższego niż zamierzali. Takich
-pokus nie mają mieszkańcy wielu stanów, którzy muszą odczekać od kilku do
-kilkunastu dni zanim mogą cieszyć się nowym sprzętem.[^new_gun_wait]
+pokus nie mają mieszkańcy stanów, w których trzeba odczekać od kilku do
+kilkunastu dni przed odebraniem nowego sprzętu.[^new_gun_wait]
 
 Jest to mniej uciążliwe niż czekanie 3 lata na pozwolenie, ale i
 tak może znacznie utrudnić życie w najmniej oczekiwanym momencie: Jeśli mamy już
@@ -78,7 +78,7 @@ bezpieczeństwo.
 W Polsce posiadając pozwolenie na broń do celów sportowych (które bardzo łatwo
 uzyskać), możemy nosić przy
 sobie załadowaną broń wszędzie poza środkami komunikacji zbiorowej, budynkami
-sądów, zgromadzeniami i imprezami masowymi.
+sądów, zgromadzeniami i imprezami masowymi.[^noszenie]
 
 O wiele trudniej jest być uzbrojonym np. w stanie New Jersey. Jeśli mamy tam przy
 sobie broń, nie możemy wejść do żadnego **parku**, biblioteki, muzeum, szkoły,
@@ -117,7 +117,7 @@ Z powodu tego ograniczenia producent broni KelTec przywrócił przestarzały spo
 ładowania broni bez magazynków, który ludzkość porzuciła po II WŚ.[^keltec]
 
 Podobną krytykę można wystosować wobec wprowadzonego przez 11 stanów (oraz
-miasto stołeczne) zakazu posiadania karabinków przypominającyh broń
+miasto stołeczne) zakazu posiadania karabinków przypominających broń
 bojową.[^assault] Taka broń jest nie tylko używana w sportach strzeleckich, ale przede wszystkim może być
 nieoceniona przy obronie własnego domu, bo o wiele skuteczniej powstrzyma
 napastników. Jest przy tym łatwiejsza w użyciu przez osoby, które nie
@@ -138,9 +138,53 @@ przejeżdżać z bronią, żeby nie narazić się na zarzuty karne.
 # Utrudnienia w Polsce
 
 A jakie utrudnienia występują w Polsce, których nie spotkamy w Stanach
-Zjednoczonych? **ŻADNE.** Przynajmniej 
+Zjednoczonych? **ŻADNE.**
 
-# Dlaczego Polacy mają mniej broni?
+Niektórzy narzekają, że w ogóle o pozwolenie trzeba
+się ubiegać, ale zasady przyznawania prawie wszystkich pozwoleń są jasne, obiektywne i
+pozbawione uznaniowych elementów. W wielu stanach są one o wiele surowsze niż w
+Polsce.
+
+Niektórzy narzekają, że za pozwolenie i wymagane badania trzeba płacić,
+ale w Polsce te koszty również są niższe niż w Stanach[^koszty], a także niższe
+niż cena nawet najtańszego nowego pistoletu.
+
+Bardzo często polscy strzelcy narzekają, że wymogiem uzyskania pozwolenia
+kolekcjonerskiego jest przynależność do dowolnego stowarzyszenia
+kolekcjonerskiego (koszt: 10 zł rocznie), a wymogiem uzyskania pozwolenia
+sportowego jest uprawianie sportu strzeleckiego (trzeba przejść szkolenie,
+egzamin i co roku wziąć udział w zawodach). Te narzekania na nieistotne
+szczegóły najdobitniej pokazują, że w Polsce bardzo łatwo można zdobyć
+uprawnienia do posiadania i noszenia broni.
+
+# Dlaczego Polacy mają mniej broni niż Amerykanie?
+
+Bo jej nie potrzebują. Polska jest nieporównanie bezpieczniejszym miejscem niż
+USA.[^bezpieczeństwo] W dodatku nie mamy do broni podejścia ideologicznego i nie
+fetyszyzujemy jej (poza niektórymi pasjonatami broni). Natomiast
+Amerykanie traktują ją często jako ważny element swojej tożsamości narodowej i
+symbol wartości, na równi z Biblią czy flagą narodową.
+
+Broń jest nam tak bardzo niepotrzebna, że wielu krzykaczy domagających się
+swobodnego dostępu do broni nie ma najmniejszego pojęcia, jak łatwo można
+pozwolenie na broń uzyskać. Wielokrotnie gdy to wyjaśniałem, ktoś zarzucał mi kłamstwo, bo "gdyby
+to było tak łatwe, to nikt nie domagałby się łatwiejszego dostępu do broni i
+wszyscy by ją kupowali." To znaczy, że wytworzyła się samonapędzająca się bańska
+dezinformacyjna: Ludzie zakładają, że dostęp do broni jest utrudniony, bo tak
+wiele osób domaga się ułatwień i sami dołączają do chóru, który domaga się
+ułatwień. Nie poświęcają przy tym nawet 10 minut, żeby sprawdzić w internecie,
+czy dostęp do broni rzeczywiście jest tak trudny.
+
+Dostęp do broni w Polsce jest utrudniony tylko w jednym sensie: Tak niewielu z
+nas czuje potrzebę jej posiadania, że infrastruktura dla strzelców jest
+minimalistyczna: Jest mało strzelnic, bo nie ma zapotrzebowania na ich usługi;
+jest mało sklepów z bronią i amunicją, bo mało kto w nich kupuje. Przez to
+ciężej trenować strzelanie, a przy zakupach wobec braku konkurencji trzeba się
+liczyć z wysoką marżą i niedużym wyborem.
+
+To zapewne poprawi się dopiero, kiedy "dogonimy" Zachód pod względem
+przestępczości. Ale tego nikomu z nas nie życzę.
+
 [^la_2_lata]: https://www.nraila.org/articles/20250721/designed-to-fail-permit-processing-in-the-city-of-angels
 [^la_3_lata]: https://www.visaverge.com/news/doj-sues-la-county-sheriff-over-unreasonable-concealed-carry-delays/
 [^nj_wait]: https://bearingarms.com/john-petrolino/2024/12/29/top-10-worst-towns-in-nj-on-permit-to-carry-issuance-delays-n1227241
@@ -160,3 +204,6 @@ Zjednoczonych? **ŻADNE.** Przynajmniej
 [^interstate]: https://www.americanconcealandcarry.com/crossing-state-lines-the-interstate-nuances-of-concealed-carry-laws/
 [^reciprocity]: https://my.concealedcoalition.com/reciprocity-maps/
 [^federal]: https://legalclarity.org/18-usc-922-federal-firearm-laws-and-restrictions-explained/
+[^koszty]: W Polsce wszystkie koszty związane z pozwoleniem kolekcjonerskim możemy zamknąć w 1 500 zł, podczas gdy w niektórych stanach trzeba płacić setki lub nawet tysiąc dolarów i to przed każdym zakupem: https://www.militarymodelling.com/blog/how-much-are-gun-license/
+[^bezpieczeństwo]: https://www.nationmaster.com/country-info/compare/Poland/United-States/Crime/Violent-crime
+[^noszenie]: https://nos-bron.pl/noszenie-broni/zakaz-noszenia-broni/
