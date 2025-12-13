@@ -1,0 +1,15 @@
+{{ if .Site.Taxonomies.tags }}
+<div class="sidebar-section tag-cloud">
+  <h3>Tagi</h3>
+  <div class="tag-cloud-items">
+    {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+      <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}"
+         class="tag-item"
+         data-count="{{ len $taxonomy }}">
+        {{ $name }}
+      </a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
+

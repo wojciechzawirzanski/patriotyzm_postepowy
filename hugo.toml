@@ -8,3 +8,5 @@ theme = "PaperMod"
     disableTitleCapitalization = true
     disableArchiveTitleStyling  = true
     customCss = ["css/custom.css"]
+[taxonomies]
+tag = "tags"
