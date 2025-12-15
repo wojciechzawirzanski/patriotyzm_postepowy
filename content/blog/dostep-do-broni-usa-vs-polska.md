@@ -3,6 +3,7 @@ date = '2025-12-11T14:46:58+01:00'
 draft = true
 title = 'Dostęp do broni już jest łatwiejszy w Polsce niż w Stanach Zjednoczonych'
 tags = ["broń", "Polska", "Ameryka", "prawo", "samoobrona"]
+thumbnail = "images/gun-pistol.jpg"
 +++
 
 Choć w Polsce już mamy swobodny dostęp do broni, nie brak krzykaczy, którzy

@@ -2,7 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'pl-PL'
 defaultContentLanguage = "pl"
 title = 'Patriotyzm postępowy'
-theme = "PaperMod"
+theme = "anatole"
 
 [params]
     disableTitleCapitalization = true
