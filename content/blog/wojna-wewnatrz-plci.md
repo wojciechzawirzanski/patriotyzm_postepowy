@@ -8,13 +8,24 @@ Zadziwiająco często w publikacjach przeznaczonych dla kobiet takich jak Wysoki
 Obcasy czy na portalu Onet Kobieta można znaleźć artykuły promujące
 pozamałżeńskie romanse i inne formy zdrady lub zachwalające życie w samotności,
 bez stałego partnera albo co najmniej bezdzietność. Takie materiały normalizują
-zachowania, które albo są mało pociągające dla większości kobiet (świadoma
-samotność), albo w oczach większości mężczyzn czynią je nieatrakcyjnymi kandydatkami do poważnego związku
-(rozwiązłość). Można by naiwnie pomyśleć, że celem
-autorek jest zwiększanie wolności seksualnej kobiet w społecznej świadomości i
-ich możliwości wyboru bez narażania się na powszechną krytykę.
-Rzeczywisty cel może być zgoła przeciwny i wynikać ze zjawiska znanego w
-biologii jako **supresja reprodukcyjna**.[^supresja]
+zachowania, które albo są mało pociągające dla większości kobiet (samotność),
+albo w oczach większości mężczyzn czynią je nieatrakcyjnymi kandydatkami do
+poważnego związku (rozwiązłość).
+
+Można by naiwnie pomyśleć, że celem
+autorek jest zwiększanie wolności seksualnej kobiet. To dałoby paniom większą
+wolność przy podejmowaniu życiowych i seksualnych wyborów, nie narażając się
+przy tym na krytykę i inne negatywne konsekwencje.
+Rzeczywisty cel może być jednak zgoła przeciwny i wynikać ze zjawiska znanego w
+świecie naukowym jako **konkurencja wewnątrzpłciowa**.[^konkurencja]
+
+W anglojęzycznym komentariacie coraz poważniej analizuje się hipotezę, którą
+Rafał Ziemkiewicz żartobliwie wyraził już 7 lat temu:
+
+> Feminizm to ruch skierowany nie przeciwko mężczyznom, a zemsta kobiet
+> brzydkich nad tymi ładnymi. Skoro brzydszych nikt nie chce oglądać i adorować,
+> to zorganizowały się tak, aby mężczyźni bali się podziwiać i adorować te
+> ładniejsze.
 
 # Supre... repro... co?
 
@@ -49,16 +60,22 @@ Powszechnie wiadomo, zarówno w kulturze popularnej jak i w literaturze naukowej
 że kobiety stosują wobec innych kobiet
 **agresję pośrednią**,[^agresja_posrednia] tj. plotkowanie, obgadywanie,
 wykluczanie społeczne. Zamiast tak jak mężczyźni rzucać bezpośrednio wyzwanie
-rywalom, kobiety wolą używać tych bardziej zawoalowanych metod.[^vil] Takie
+rywalom, kobiety wolą używać tych bardziej zawoalowanych metod.[^vil] Niektóre
+(choć trzeba przyznać, że nie wszystkie) badania sugerują, że takie
 ataki są szczególnie mocno skierowane przeciwko najatrakcyjniejszym
 kobietom. Strach przed tymi metodami skutecznie powstrzymuje kobiety przed
 swobodnym manifestowaniem swoich wdzięków.
 
-Najnowsze badania sugerują, że oprócz tej i tak zawoalowanej formy agresji,
-kobiety stosują jeszcze subtelniejsze zachowania: 
+Niedawne badania Dr Daniele Sulikowskiej sugerują, że oprócz tej i tak
+zawoalowanej formy agresji, kobiety stosują jeszcze subtelniejsze zachowania:
+sabotują szanse swoich rywalek przez udzielanie im złych rad.
+
+W jednym badaniu kobiety radziły innym kobietom, aby skróciły włosy o wiele
+bardziej, 
 
 
 
 [^supresja]: Ang. *reproductive suppression*. Wikipedia: https://en.wikipedia.org/wiki/Reproductive_suppression
 [^agresja_posrednia]: Ang. *indirect aggression*.
 [^vil]: Vaillancourt, T. (2013). Do human females use indirect aggression as an intrasexual competition strategy? Philosophical Transactions of the Royal Society B, 368(1631), 20130074. https://doi.org/10.1098/rstb.2013.0080, https://pmc.ncbi.nlm.nih.gov/articles/PMC3826209/
+[^konkurencja]: Ang. *intraesxual competition*. Wikipedia: https://en.wikipedia.org/wiki/Female_intrasexual_competition
