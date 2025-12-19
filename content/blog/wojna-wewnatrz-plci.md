@@ -43,7 +43,7 @@ kobiety przed swobodnym manifestowaniem swoich wdzięków.[^powstrzymywanie]
 
 Coraz więcej publicystów zauważa, że kobieca rywalizacja może mieć na
 celu nie tylko zapewnienie sobie opieki, lojalności i materiału genetycznego
-najatrakcyjniejszych mężczyn, ale możliwie jak największe utrudnianie
+najatrakcyjniejszych mężczyzn, ale możliwie jak największe utrudnianie
 rozmnażania się innym kobietom w ogóle.
 
 # Ale po co?
@@ -54,10 +54,11 @@ przyszłych pokoleniach było jak najwięcej kopii naszych genów. Najoczywistsz
 przejawem tego dążenia jest potrzeba seksu; najlepiej z partnerami przejawiającymi oznaki zdrowia, sprawności i
 płodności, czyli atrakcyjnymi. Rywalizacja wewnątrzpłciowa jest naturalną konsekwencją: Wszyscy - 
 o ile nie jesteśmy homoseksualni - konkurujemy z innymi osobami
-tej samej płci, aby zaskarbić sobie zainteresowanie i często wierność najbardziej pożądancyh partnerów płci przeciwnej.
+tej samej płci, aby zaskarbić sobie zainteresowanie i często wierność najbardziej pożądanych partnerów płci przeciwnej.
 
-Ta rywalizja ma jednak również nieoczywistą stronę: Taką, w której staramy się,
-aby nasi konkurenci mieli jak najmniej potomstwa, a więc językiem naukowym dążym
+Ta rywalizacja ma jednak również nieoczywistą stronę: Taką, w której staramy się,
+aby nasi konkurenci mieli jak najmniej potomstwa, a więc językiem naukowym
+dążymy
 do **supresji reprodukcyjnej**.[^supresja] Uzasadnienie jest właściwie proste,
 ale wymaga trochę zastanowienia: Jeśli postaramy się, żeby inni mieli jak najmniej
 dzieci, nie zmieniając przy tym naszych szans na rozmnażanie, to w przyszłych
@@ -77,7 +78,7 @@ urbanizujących się społeczeństw.
 # Mam rady i nie zawaham się ich użyć
 
 W wywiadzie udzielonym dla podkastu DemistifySci[^odcinek] doktor Daniela
-Sulikowska przedstawiła parę przykładów tego, jak kobiety udzielają swoim
+Sulikowska[^sulikowski] przedstawiła parę przykładów tego, jak kobiety udzielają swoim
 konkurentkom szkodliwych rad, do których same nie zamierzają się stosować:
 Takie zachowania zaobserwowano na forach internetowych dla nowych matek oraz w
 laboratorium, pytając poddane badaniu kobiety o to, jak bardzo hipotetyczne
@@ -102,6 +103,70 @@ kogoś do kłamstwa, które chce usłyszeć. O wiele trudniej byłoby skłonić 
 społeczeństwo w ogóle, żeby przestali zwracać uwagę na tak oczywisty dowód
 słabego zdrowia i charakteru jak nadmiarowe dziesiątki kilogramów.
 
+Kolejnym przykładem są właśnie tematy artykułów z prasy dla kobiet, do których nawiązałem
+we
+wstępie: Promowanie samotności i rozwiązłości. Wiele młodych kobiet ignoruje
+mądrości swoich matek oraz babć i odkłada decyzję o związaniu się i założeniu
+rodziny do wieku, kiedy nie są już atrakcyjne dla mężczyzn, a ich zegar
+biologiczny tyka coraz głośniej. To opóźnienie jest tym bardziej
+dotkliwe, że wiele pań nie zdaje sobie sprawy, jak gwałtownie spada ich
+atrakcyjność z każdym rokiem. Wiele 30-latek liczy, że są w stanie przyciągnąć
+tych samych mężczyzn, którzy interesowali się nimi jeszcze kilka lat wcześniej.
+Na domiar złego, często uważają, że ich sukcesy zawodowe i finansowe (do których
+zachęcała je prasa kobieca), powinny być doceniane przez mężczyzn. Ci jednak
+cenią w kobietach zupełnie inne aspekty.
+
+Podobnie z rozwiązłością. Intensywne eksplorowanie własnej seksualności przez
+młode kobiety nie jest oczywiście niczym złym, ale czyni je mało atrakcyjnymi
+kandydatkami do poważnego związku w oczach mężczyzn. Zwłaszcza, jeśli taka
+eksploratorka z dumą dokumentuje swoje osiągnięcia lub przemyślenia na ich temat
+w internecie albo opowiada o nich mało dyskretnym znajomym. 
+
+Nie trzeba chyba tłumaczyć, dlaczego zachęcanie do pozamałżeńskich romansów i
+zdrad jest szkodliwe dla odbiorczyń tych materiałów: Kobiety bezmyślnie
+podążające za takimi radami ryzykują rozpad małżeństwa, co musi fatalnie odbić się
+na ich przyszłych szansach reprodukcyjnych - jeśli planują jeszcze mieć dzieci -
+i na życiowych perspektywach ich żyjących już dzieci - jeśli te nie osiągnęły
+jeszcze samodzielności i nadal pozostają w rodzinnym domu.
+
+# Męska wersja
+
+Do tej pory skupiłem się na materiałach kierowanych do kobiet, ale możemy też łatwo znaleźć podobny strumień rad adresowanych do panów i
+zmniejszających szanse na rywalizację z ich strony. Są to oczywiście ruchy
+MGTOW[^mgtow]
+i blackpill[^blackpill], a w polskiej wersji społeczność gromadząca się na portalu Wykop pod
+tagiem przegryw.[^przegryw]
+
+Ruch MGTOW (z ang. *men going their own way* - mężczyźni podążający własną drogą)
+głosi, że mężczyźni powinni unikać wiązania się z kobietami. W skrajniejszej
+wersji dotyczy do jakichkolwiek kontaktów z kobietami, a nawet ze społeczeństwem
+w ogóle. W łagodniejszej wersji unikać należy jedynie poważnych związków, ale
+niekoniecznie krótkich, przelotnych znajomości.
+Uzasadnieniem ma być dwulicowa natura kobiet, które według tego ruchu w młodym
+wieku są rozwiązłe, oferując swoje wdzięki tylko wąskiej grupie
+najbardziej atrakcyjnych mężczyzn, a na starość godzą się na związek z mniej atrakcyjnym
+mężczyzną, wykorzystując jego majątek, ale często odmawiając mu seksu,[^betabankomat]
+a nawet zdradzając go z tymi bardziej pożądanymi.
+Pomimo tej niesprawiedliwej dla większości mężczyzn dynamiki, instytucje społeczne i
+państwowe, a zwłaszcza sądy rodzinne, mają faworyzować kobiety a dyskryminować mężczyzn.
+
+Ideologia blackpill dostarcza najbardziej skrajnych uzasadnień do wykluczenia
+się z życia społecznego i poszukiwań partnerki. Głosi ona, że to geny 
+całkowicie determinują atrakcyjność mężczyzny. Prowadzi to do konkluzji, że
+jakiekolwiek próby zwiększenia swojej atrakcyjności przez mężczyzn są skazane na
+porażkę. Pod wpływem takich poglądów młodym mężczyznom, którzy nie mieli do tej pory sukcesu z kobietami,
+łatwo uwierzyć, że już całe życie będą się mierzyć w tej sferze z niepowodzeniem.
+
+To, że 
+propagowanie takich teorii zmniejsza rywalizację
+ze strony mężczyzn, jest oczywiste. W przeciwieństwie do kobiecej wersji
+szkodliwych rad, nie doczekały się one jednak publikacji w mediach masowych.
+Póki co, takie głosy ograniczają się do grup dyskusyjnych i forów w internecie,
+choć cieszą się coraz większym zainteresowaniem.
+
+# Mężczyźni i kobiety 
+
+
 
 
 [^supresja]: Ang. *reproductive suppression*. Wikipedia: https://en.wikipedia.org/wiki/Reproductive_suppression
@@ -111,7 +176,11 @@ słabego zdrowia i charakteru jak nadmiarowe dziesiątki kilogramów.
 [^ziemkiewicz]: Zacytowaną m.in. tu: https://www.wirtualnemedia.pl/skargi-do-krrit-na-felieton-rafala-ziemkiewicza-w-lato-z-radiem-o-feministkach-zglaszajacy-bez-poczucia-humoru,7171426826590337a
 [^powstrzymywanie]: Krems, J. A., Rankin, A. M., & Northover, S. B. (2019). Women’s Strategic Defenses Against Same-Sex Aggression: Evidence From Sartorial Behavior. Social Psychological and Personality Science, 11(6), 770-781. https://doi.org/10.1177/1948550619882028 Wolny dostęp: https://www.academia.edu/download/121623964/194855061988202820250303-1-w37dls.pdf
 [^agresja]: Borau, S., Bonnefon, JF. The Imaginary Intrasexual Competition: Advertisements Featuring Provocative Female Models Trigger Women to Engage in Indirect Aggression. J Bus Ethics 157, 45–63 (2019).  https://doi.org/10.1007/s10551-017-3643-y Wolny dostęp: https://jfbonnefon.github.io/publication/jbe19/jbe19.pdf
-[^sulikowska]: Pani [Sulikowska](https://scholar.google.com/citations?user=wuSKtZgAAAAJ), jest doktorem psychologii ewolucyjnej z Uniwerytetu Charlesa Sturta w Australii. Warto podkreślić, że większość jej opinii na ten temat nie została opublikowana w czasopismach naukowych, a jedynie w formatach publicystycznych. Nie jestem w stanie ocenić, czy i na ile takie poglądy mogą być cenzurowane przez czasopisma naukowe z powodów ideologicznych.
+[^sulikowski]: Pani Sulikowska jest doktorem psychologii ewolucyjnej z Uniwerytetu Charlesa Sturta w Australii. Google Scholar: https://scholar.google.com/citations?user=wuSKtZgAAAAJ)
 [^population_density]: https://en.wikipedia.org/wiki/Reproductive_suppression#Population_density
 [^odcinek]: Odcinek 360., mniej więcej między 10. a 25. minutą: https://www.podchaser.com/podcasts/the-demystifysci-podcast-2077912/episodes/hidden-payoff-of-civilizationa-264436616
 [^hair]: Sulikowski, D., Williams, M., Nair, G., Shepherd, B., Wilson, A., Tran, A., & Wagstaff, D. (2024). Off with her hair: Intrasexually competitive women advise other women to cut off more hair. Personality and Individual Differences, 216, 112406., Wolny dostęp: https://www.sciencedirect.com/science/article/pii/S019188692300329X#s0115
+[^blackpill]: Wikipedia: https://en.wikipedia.org/wiki/Incel#%22Red_pill%22_and_%22black_pill%22
+[^mgtow]: Wikipedia: https://en.wikipedia.org/wiki/Men_Going_Their_Own_Way
+[^przegryw]: https://wykop.pl/tag/przegryw
+[^betabankomat]: W polskim internecie mężczyzn w tej roli często określa się jako "betabankomaty" - zbitka słowa "beta" (w domyśle: "samiec beta") i "bankomat".
