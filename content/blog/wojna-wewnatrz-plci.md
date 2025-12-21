@@ -166,7 +166,21 @@ choć cieszą się coraz większym zainteresowaniem.
 
 # Mężczyźni i kobiety 
 
+Jak widać, obie skrajne ideologie, które wydają się być wymierzone w płeć przeciwną,
+mogą tak naprawdę stanowić broń psychologiczną w skrytej walce z osobami tej samej płci.
+Warto pamiętać że oba te ruchy są tylko skrajnościami,
+choć aktywność w mediach społecznościowych może sugerować inaczej, warto
+pamiętać, że obie skrajności, zniechęcanie zarówno kobiet jak i mężczyzn do tworzenia
+i kontynuowania związków, są właśnie tym - skrajnościami. To jak często takie
+głosy pojawiają się w przestrzeni publicznej, odzwierciedla nie ich popularność, 
+a to, ile wywołują emocji i ile generują kliknięć.
 
+Ta psychologiczna wojna zgorzkniałych kobiet ze zwykłymi kobietami oraz
+zgorzkniałych mężczyzn ze zwykłymi mężczyznami zasługuje na to, żeby znaleźć się
+i pozostać w mało uczęszczanych zakamarkach internetu. Przedstawiciele obu
+skrajności napędzają siebie nawzajem. Mizogini mogą wskazywać na skrajne
+feministki jako przykład kobiet, które nie są warte wchodzenia w intymne relacje, a
+feministki - mizoginów. 
 
 
 [^supresja]: Ang. *reproductive suppression*. Wikipedia: https://en.wikipedia.org/wiki/Reproductive_suppression
