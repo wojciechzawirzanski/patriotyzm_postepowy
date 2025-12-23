@@ -31,7 +31,7 @@ efektu.
 Dlatego państwa stosują zazwyczaj o wiele bardziej subtelne metody. Świetnym
 przykładem są tu finansowane przez niemiecki rząd[^kas_finanse][^boll_finansowanie] fundacje działające w krajach, na które nasi
 zachodni sąsiedzi chcą wywierać wpływy, w tym Polskę. Np. "Campus Polska
-Przyszłości", konferencja proniemieckich partii, finansowana
+Przyszłości", konferencja obecnie rządzących partii, finansowana
 była m.in. przez fundację Bolla oraz fundację
 Adenauera,[^campus_sponsorzy]
 Te same fundacje sponsorują stypendia dla wybranych studentów, którzy rokują
@@ -52,6 +52,49 @@ oczekują.
 
 # Nowa forma zapłaty
 
+Oba powyższe przykłady opierają się na transferach pieniężnych, jawnych lub
+półjawnych, bezpośrednich lub odroczonych. Współcześnie jednak pieniądz okazuje
+się narzędziem coraz mniej
+użytecznym. Zostawia ślady i w państwach
+demokratycznych łatwo zamienia się w problem prawny i wizerunkowy.
+
+Teoretycznie alternatywą mogłyby być kryptowaluty. Jak wiadomo,
+odgrywają one ważną rolę w finansowaniu przestępczej działalności.
+W praktyce jednak nie nadają się do tego w kontekście polityków:
+przepływy kryptowalut są publiczne i możliwe do analizy, a koniec końców i tak wymagają od
+beneficjenta wymiany na prawdziwą walutę. Jest to szczególnie problematyczne w
+przypadku osób publicznych i znajdujących się pod wzmożoną kontrolą.
+
+I wtedy wchodzi on, cały na biało: zasięg.
+
+W erze mediów społecznościowych widoczność
+stała się walutą polityczną samą w sobie. Jest jak samo-spełniająca
+się przepowiednia:[^przepowiednia]
+Partia, która jest stale obecna w trendach i komentarzach na platformach
+społecznościowych, zaczyna być postrzegana jako istotna, a z czasem jako nie do
+pominięcia. Media zapraszają jej przedstawicieli, bo generują uwagę. Konkurenci reagują, bo nie
+mogą ich ignorować. Wyborcy nabierają przekonania, że skoro dany przekaz jest
+wszędzie, to musi być ważny.
+
+Przy czym ten zasięg można wygenerować sztucznie przy odpowiednich nakładach
+technologicznych i finansowych, a Rosja robi to nagminnie.[^meta_threat] Co najważniejsze,
+nawet jeśli machinacje wrogiego państwa zostaną ujawnione, odbiorca takiej
+zapłaty może udawać, że cały proceder odbywa się bez jego zgody i udziału.
+
+Najjaskrawszym przykładem są wybory prezydenckie w Rumunii w 2024 r.[^rumunia] 
+Călin Georgescu, kandydat według sondaży równie niepopularny jak Magdalena
+Biejat u nas, "wygrał" I turę. Choć
+zgłaszał, że na jego kampanię nie wydano ani złotówki, akcje promujące go na
+Tik-Toku pochłonęły miliony euro, dziesiątki tysięcy fałszywych kont, każde z
+oddzielnym łączem internetowym oraz setki opłaconych influencerów, którzy
+dostawali bardzo konkretne instrukcje, jak maksymalnie wykorzystać słabości algorytmu
+tej platformy.
+
+Rumuński Sąd Konstytucyjny jednogłośnie unieważnił te wybory na podstawie
+raportu służb specjalnych, który został odtajniony. W tym wypadku więc Rosja
+przedobrzyła i uniemożliwiono tak drastyczną ingerencję.
+Udało się jednak coś na tym ugrać: podważenie zaufania do demokracji i
+podsycenie teorii spiskowych o zmowach europejskich elit.
 
 [^shroder]: Wikipedia: https://pl.wikipedia.org/wiki/Gerhard_Schr%C3%B6der#Gazprom
 [^spd]: https://www.rp.pl/polityka/art38056071-byly-kanclerz-gerhard-schroeder-nie-odpowie-za-zwiazki-z-rosja-moze-zostac-w-spd
@@ -61,3 +104,6 @@ oczekują.
 [^boll_finansowanie]: https://pl.wikipedia.org/wiki/Fundacja_im._Heinricha_Bölla
 [^drz]: https://dorzeczy.pl/kraj/338728/rusza-campus-polska-kowalski-niemiecka-inwestycja.html
 [^eksperci]: https://podtail.com/podcast/niemcy-w-ruinie/s2e34-soft-power-jak-niemcy-wp-ywaj-na-innych/
+[^przepowiednia]: https://pl.wikipedia.org/wiki/Samospe%C5%82niaj%C4%85ca_si%C4%99_przepowiednia
+[^meta_threat]: https://transparency.meta.com/metasecurity/threat-reporting/
+[^rumunia]: https://cyberdefence24.pl/cyberbezpieczenstwo/cybermagazyn-ingerencja-w-rumunskie-wybory-jak-do-tego-doszlo
