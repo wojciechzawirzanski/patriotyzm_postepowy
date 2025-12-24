@@ -96,6 +96,59 @@ przedobrzyła i uniemożliwiono tak drastyczną ingerencję.
 Udało się jednak coś na tym ugrać: podważenie zaufania do demokracji i
 podsycenie teorii spiskowych o zmowach europejskich elit.
 
+# Sterowanie
+
+Nowe technologie ułatwiają nie tylko wynagradzanie agentów wpływu, ale też
+sterowanie nimi. W powieściach szpiegowskich agenci otrzymują jasne instrukcje
+od oficerów prowadzących. To również jest przestarzała i ryzykowna metoda,
+szczególnie w przypadku ważnych polityków. Jest też już niepotrzebna. Do
+wydawania zaleceń Rosja może użyć tego samego kanału, którym wynagradza swoje
+partie.
+
+Wystarczy, sztucznie generowanymi wyświetleniami nagradzać tylko te materiały
+usłużnych polityków, które najbardziej odpowiadają wrogiemu państwu. Usłużni
+politycy mogą twierdzić, że nie zdają sobie sprawy, skąd te zasięgi naprawdę
+pochodzą i że uważają je za prawdziwe zainteresowanie wyborców. Daje im to
+jednocześnie sygnał, jakie poglądy są od nich oczekiwane. Jest to
+klasyczny przykład *plausible deniability*,[^deniability] a więc możliwości
+wyparcias się swoich prawdziwych intencji.
+
+Dla mocodawców ryzyko, że tacy politycy w końcu wybiją się na niezależność jest
+niewielkie. Dopóki ich poparcie pozostaje niskie, są cały czas zależni od
+sztucznego wsparcia z zagranicy. A jeśli spróbują się wyrwać, zawsze można to
+wsparcie przekierować na kogoś bardziej posłusznego. Możliwe, że z takim
+manewrem mieliśmy do czynienia w tym roku. Jeśli natomiast uzyskają
+popularność na tyle dużą, że sama się napędza, nadal pozostają zależni od elektoratu,
+który przywiązał się już do konkretnych haseł. To przywiązanie do elektoratu
+wydzieliśmy szczególnie wyraźnie w ostatniej kampanii prezydenckiej, gdy
+Sławomir Mentzen próbował ustawić się symetrzycznie pomiędzy dwoma kandydatami,
+ale ostatecznie musiał podkulić ogon i opuścić tę pozycję.
+
+# Dlaczego to możliwe
+
+Takie praktyki można by w dużej mierze ukrócić, ale nie jest to w interesie
+platform, które mają dostęp do niezbędnych danych. Przede wszystkim rosyjskie kampanie
+dezinformacyjne, polityczne i propagandowe przynoszą im realne
+zyski[^fb_politico][^fb_ria]. Co ważniejsze obecnie, ich prezesi są
+gotowi podporządkować się życzeniom prezydenta Trumpa, a temu nie w smak jest
+badanie wpływów rosyjskich: w przeszłości potwierdzono 11 przypadków, kiedy sam utrudniał
+śledztwa dotyczące rosyjskich wpływów na jego zwycięstwo[^trump_obstruction], a
+New York Times donosił, że przed wyborami jego współpracownicy wielokrotnie kontaktowali się z
+wysoko postawionymi oficerami rosyjskiego wywiadu[^nyt].
+
+Unia Europejska mogłaby wymagać większej transparentności i stanowczości od
+platform.
+Niestety Europa jest pod dużą presją ze strony amerykańskiej
+administracji, aby nie utrudniać gigantom technologicznym zza oceanu zarabiania
+pieniędzy i nie ograniczać ich władzy nad umysłami wyborców.
+
+Choć Facebook publikuje raporty dotyczące rosyjskich kampanii z użyciem
+fałszywych kont[^meta_threat], są one niewystarczające. Platformy
+społecznościowe systematycznie i konsekwentnie utrudniają dostęp do niezbędnych
+danych badaczom i śledczym[^data_senate][^data_eu][^data_arxiv]. Rosyjskie machinacje
+udaje się ukrócić tylko, kiedy osiągną one ekstremalny rozmiar, jak to było w
+przypadku rumuńskich wyborów prezydenckich.
+
 [^shroder]: Wikipedia: https://pl.wikipedia.org/wiki/Gerhard_Schr%C3%B6der#Gazprom
 [^spd]: https://www.rp.pl/polityka/art38056071-byly-kanclerz-gerhard-schroeder-nie-odpowie-za-zwiazki-z-rosja-moze-zostac-w-spd
 [^campus_sponsorzy]: https://2023.campuspolska.pl/en/our-partners/
@@ -107,3 +160,12 @@ podsycenie teorii spiskowych o zmowach europejskich elit.
 [^przepowiednia]: https://pl.wikipedia.org/wiki/Samospe%C5%82niaj%C4%85ca_si%C4%99_przepowiednia
 [^meta_threat]: https://transparency.meta.com/metasecurity/threat-reporting/
 [^rumunia]: https://cyberdefence24.pl/cyberbezpieczenstwo/cybermagazyn-ingerencja-w-rumunskie-wybory-jak-do-tego-doszlo
+[^deniability]: Termin, który niestety nie doczekał się rozsądnego polskiego
+  tłumaczenia. https://en.wikipedia.org/wiki/Plausible_deniability
+[^fb_politico]: https://www.politico.eu/article/russia-influence-hackers-social-media-facebok-operation-thriving/
+[^fb_ria]: https://www.pbs.org/newshour/nation/russian-propaganda-group-purchased-ads-facebook-2016-election-heres-means
+[^trump_obstruction]: https://en.wikipedia.org/wiki/Mueller_report#Episodes_of_alleged_obstruction
+[^data_senate]: https://www.cnbc.com/2018/12/17/tech-companies-respond-to-senate-intelligence-committee-investigation.html
+[^data_eu]: https://poland.representation.ec.europa.eu/news/tiktok-i-meta-blokuja-dane-2025-10-27_pl
+[^data_arxiv]: [https://arxiv.org/abs/2506.09746](TikTok's Research API: Problems Without Explanations)
+[^nyt]: https://web.archive.org/web/20170302025649/https://www.nytimes.com/2017/02/14/us/politics/russia-intelligence-communications-trump.html
