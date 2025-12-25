@@ -6,18 +6,22 @@ tags = ["broń", "Polska", "Ameryka", "prawo", "samoobrona"]
 thumbnail = "images/gun-pistol.jpg"
 +++
 
-Choć w Polsce już mamy swobodny dostęp do broni, nie brak krzykaczy, którzy
-twierdzą inaczej. Często stawiają oni legislację Stanów Zjednoczonych jako wzór do
-naśladowania. Można znaleźć stany, w których rzeczywiście z powodu ideologii lub
-ich wiejskiego charakteru podejście do broni jest bardzo liberalne. Jednak jeśli
-przyjrzymy się najbogatszym, najludniejszym i najbardziej rozwiniętym stanom, okaże się, że w Polsce o
-wiele łatwiej nabyć i nosić broń palną niż tam.
+W Polsce wciąż powiela się kłamstwo, że dostęp do broni palnej jest utrudniony.
+Można to uznać za prawdę jedynie w takim sensie, w jakim utrudniony jest dostęp
+do samochodów: wymaga przejścia prostej procedury administracyjnej, ale nie
+zależy od arbitralnych decyzji urzędników ani szczególnych przywilejów.
+
+Paradoks polega na tym, że osoby najgłośniej domagające się ułatwień bardzo
+często nie mają pojęcia, jak obecne przepisy faktycznie działają – ani w Polsce,
+ani w Stanach Zjednoczonych, które zwykle stawiają za wzór. Ten tekst pokazuje,
+że Polakom łatwiej legalnie nabyć i nosić broń palną niż mieszkańcom wielu
+stanów USA, zwłaszcza tych najbardziej rozwiniętych.
 
 # Pozwolenia na broń
 
 Nie jest prawdą, że w Stanach Zjednoczonych można po prostu wejść do sklepu i
 kupić broń bez żadnych formalności. We **wszystkich stanach** obowiązują w tej kwestii 
-jakieś ograniczenia.[^federal] W wielu, podobnie jak u nas, trzeba w tym celu uzyskać
+jakieś ograniczenia[^federal]. W wielu, podobnie jak u nas, trzeba w tym celu uzyskać
 pozwolenie.
 
 W Polsce wystarczy raz zdobyć pozwolenie, aby móc **do końca życia** posiadać 
@@ -26,16 +30,16 @@ Ograniczenie dotyczy tego, ile maksymalnie sztuk możemy w dowolnej chwili posia
 ile razy możemy broń sprzedać i kupić. A jeśli zajdzie taka potrzeba, pozwolenie
 można korespondencyjnie rozszerzyć na większą ilość broni.
 
-Inaczej to wygląda w USA: W kilku stanach nowe pozwolenie trzeba uzyskać **przed każdym zakupem**.[^licensing]
+Inaczej to wygląda w USA: W kilku stanach nowe pozwolenie trzeba uzyskać **przed każdym zakupem**[^licensing].
 W kilkunastu kolejnych stanach pozwolenie traci ważność po kilku latach.
 W zależności od stanu, uzyskanie pozwolenia może się to wiązać z koniecznością przejścia
-obowiązkowego szkolenia,[^us_szkolenia] nawet jeśli niedawno takie szkolenie
+obowiązkowego szkolenia[^us_szkolenia], nawet jeśli niedawno takie szkolenie
 przeszliśmy lub mamy już duże doświadczenie w posługiwaniu się bronią palną. Może
 też oznaczać konieczność pozostawienia na policji odcisków palców, odbycia
 rozmowy kwalifikującej z policjantem oraz przedstawienia osób, które mogą
 zaświadczyć o naszym moralnym charakterze. Do niedawna w stanie Nowy Jork
 wymagano również przedstawienia listy wszystkich naszych kont w sieciach
-społecznościowych.[^ny_private]
+społecznościowych[^ny_private].
 
 W Polsce bardzo popularny rodzaj pozwolenia -
 pozwolenie kolekcjonerskie - nie wymaga żadnego obowiązkowego szkolenia. Trzeba
@@ -54,17 +58,17 @@ załatwieniem sprawy następnego dnia.
 
 Takiego szczęścia nie mają Amerykanie. Na przykład w Los Angeles na pozwolenie
 trzeba czekać **prawie 2 lata**[^la_2_lata], a rekordziści czekali aż **3
-lata**.[^la_3_lata] Również **3 lata** czekali rekordziści w stanie New Jersey, choć
+lata**[^la_3_lata]. Również **3 lata** czekali rekordziści w stanie New Jersey, choć
 średni czas oczekiwania wynosi tam we wszystkich miastach mniej niż 
-rok.[^nj_wait] W stanie Nowy Jork teoretycznie maksymalny czas oczekiwania
-wynosi 6 miesięcy, ale w praktyce często wydłuża się go do **ponad roku**.[^ny_rok]
+rok[^nj_wait]. W stanie Nowy Jork teoretycznie maksymalny czas oczekiwania
+wynosi 6 miesięcy, ale w praktyce często wydłuża się go do **ponad roku**[^ny_rok].
 
 Kolejnym utrudnieniem, choć mniej dotkliwym, jest obowiązkowy czas oczekiwania
 na nowo zakupioną broń. W Polsce nie ma takiego mechanizmu, stąd w internecie
 możemy znaleźć rady dla strzelców, aby nie dali się namówić charyzmatycznemu
 sprzedawcy do zakupu czegoś zupełnie innego i droższego niż zamierzali. Takich
 pokus nie mają mieszkańcy stanów, w których trzeba odczekać od kilku do
-kilkunastu dni przed odebraniem nowego sprzętu.[^new_gun_wait]
+kilkunastu dni przed odebraniem nowego sprzętu[^new_gun_wait].
 
 Jest to mniej uciążliwe niż czekanie 3 lata na pozwolenie, ale i
 tak może znacznie utrudnić życie w najmniej oczekiwanym momencie: Jeśli mamy już
@@ -79,21 +83,21 @@ bezpieczeństwo.
 W Polsce posiadając pozwolenie na broń do celów sportowych (które bardzo łatwo
 uzyskać), możemy nosić przy
 sobie załadowaną broń wszędzie poza środkami komunikacji zbiorowej, budynkami
-sądów, zgromadzeniami i imprezami masowymi.[^noszenie]
+sądów, zgromadzeniami i imprezami masowymi[^noszenie].
 
 O wiele trudniej jest być uzbrojonym np. w stanie New Jersey. Jeśli mamy tam przy
 sobie broń, nie możemy wejść do żadnego **parku**, biblioteki, muzeum, szkoły,
 żłobka, uniwersytetu, teatru, kina, budynku administracji stanowej lub
 federalnej, szpitala, kliniki, przychodni, domu opieki, **baru, restauracji** czy na
-plażę.[^nj_sensitive_places] Oczywiście nie możemy też zostawić broni na chwilę
+plażę[^nj_sensitive_places]. Oczywiście nie możemy też zostawić broni na chwilę
 przed wejściem, więc jeśli planujemy wizytę w jednym z tych miejsc,
 najprawdopodobniej musimy być nieuzbrojeni przez cały dzień. Stan Nowy Jork jest
 mniej restrykcyjny, ale zabrania noszenia broni w najbardziej atrakcyjnych
-turystycznie miejscach, w tym na Times Square.[^ny_tourist] Natomiast w stanie
+turystycznie miejscach, w tym na Times Square[^ny_tourist]. Natomiast w stanie
 Maryland popełnimy przestępstwo jeśli wejdziemy z bronią do **jakiegokolwiek
 sklepu czy zakładu**, chyba że właściciel wyraźnie nam na to
-pozwolił.[^maryland_private] W stanie Nowy Jork podobne ograniczenie zostało
-zniesione dopiero 2 lata temu decyzją sądu.[^ny_private]
+pozwolił[^maryland_private]. W stanie Nowy Jork podobne ograniczenie zostało
+zniesione dopiero 2 lata temu decyzją sądu[^ny_private].
 
 W Polsce złamiemy prawo tylko jeśli pojawimy się załadowaną bronią w jednym z
 wymienionych wcześniej miejsc. W wielu innych obiektach noszenie broni jest
@@ -104,7 +108,7 @@ jesteśmy uzbrojeni.
 # Dostępne rodzaje broni
 
 Kilkanaście stanów ogranicza pojemność magazynków do maksymalnie 10
-nabojów,[^magazine]
+nabojów[^magazine],
 choć praktycznie wszystkie współczesne pistolety mają
 magazynki na kilkanaście do kilkudziesięciu nabojów. To ograniczenie praktycznie
 wyklucza obywateli z niektórych sportów strzeleckich oraz może mieć tragiczne znaczenie w
@@ -115,11 +119,11 @@ nawet śmiertelne strzały ale działające z opóźnieniem sprawiają, że wię
 ilość amunicji może decydować o życiu lub śmierci niewinnych ofiar.
 
 Z powodu tego ograniczenia producent broni KelTec przywrócił przestarzały sposób
-ładowania broni bez magazynków, który ludzkość porzuciła po II WŚ.[^keltec]
+ładowania broni bez magazynków, który ludzkość porzuciła po II WŚ[^keltec].
 
 Podobną krytykę można wystosować wobec wprowadzonego przez 11 stanów (oraz
 miasto stołeczne) zakazu posiadania karabinków przypominających broń
-bojową.[^assault] Taka broń jest nie tylko używana w sportach strzeleckich, ale przede wszystkim może być
+bojową[^assault]. Taka broń jest nie tylko używana w sportach strzeleckich, ale przede wszystkim może być
 nieoceniona przy obronie własnego domu, bo o wiele skuteczniej powstrzyma
 napastników. Jest przy tym łatwiejsza w użyciu przez osoby, które nie
 mają czasu na regularne treningi.
@@ -131,8 +135,8 @@ asortyment broni niż wielu Amerykanów.
 # Podróżowanie
 
 Ponieważ każdy stan w USA ma inne regulacje dotyczące broni palnej, a wiele z
-nich nie uznaje pozwoleń uzyskanych w innych stanach,[^reciprocity] podróżowanie
-po kraju staje się niezwykle skomplikowane.[^interstate] Każdy mieszkaniec musi
+nich nie uznaje pozwoleń uzyskanych w innych stanach[^reciprocity], podróżowanie
+po kraju staje się niezwykle skomplikowane[^interstate]. Każdy mieszkaniec musi
 dokładnie zapoznać się z prawem wszystkich stanów, przez które będzie
 przejeżdżać z bronią, żeby nie narazić się na zarzuty karne.
 
@@ -161,7 +165,7 @@ uprawnienia do posiadania i noszenia broni.
 # Dlaczego Polacy mają mniej broni niż Amerykanie?
 
 Bo jej nie potrzebują. Polska jest nieporównanie bezpieczniejszym miejscem niż
-USA.[^bezpieczeństwo] W dodatku nie mamy do broni podejścia ideologicznego i nie
+USA[^bezpieczeństwo]. W dodatku nie mamy do broni podejścia ideologicznego i nie
 fetyszyzujemy jej (poza niektórymi pasjonatami broni). Natomiast
 Amerykanie traktują ją często jako ważny element swojej tożsamości narodowej i
 symbol wartości, na równi z Biblią czy flagą narodową.
