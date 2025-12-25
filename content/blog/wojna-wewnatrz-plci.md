@@ -7,21 +7,20 @@ tags = ["Polska", "polaryzacja", "seks", "społeczeństwo"]
 
 Zadziwiająco często w publikacjach przeznaczonych dla kobiet takich jak Wysokie
 Obcasy czy Onet Kobieta można znaleźć artykuły promujące
-pozamałżeńskie romanse i inne formy zdrady lub zachwalające życie w samotności
-lub co najmniej bezdzietność. Takie materiały normalizują
+pozamałżeńskie romanse i inne formy zdrady albo zachwalające życie w samotności
+i bezdzietność. Takie materiały normalizują
 zachowania, które albo są mało pociągające dla większości kobiet (samotność),
-albo w oczach większości mężczyzn czynią je nieatrakcyjnymi kandydatkami do
-poważnego związku (rozwiązłość).
+albo grożą rozpadem związku (rozwiązłość).
 
 Można by naiwnie pomyśleć, że celem
 autorek jest zwiększanie wolności seksualnej kobiet. To dałoby paniom większą
 swobodę przy podejmowaniu życiowych i seksualnych wyborów, nie narażając się
 przy tym na krytykę i inne negatywne konsekwencje.
 Rzeczywisty cel może być jednak zgoła przeciwny i wynikać ze zjawiska 
-znanego jako **rywalizacja wewnątrzpłciowa**.[^konkurencja]
+znanego jako **rywalizacja wewnątrzpłciowa**[^konkurencja].
 
 W anglojęzycznym komentariacie coraz poważniej analizuje się hipotezę, którą
-Rafał Ziemkiewicz żartobliwie wyraził już 7 lat temu:[^ziemkiewicz]
+Rafał Ziemkiewicz żartobliwie wyraził już 7 lat temu[^ziemkiewicz]:
 
 > Feminizm to ruch skierowany nie przeciwko mężczyznom, a zemsta kobiet
 > brzydkich nad tymi ładnymi.
@@ -31,15 +30,16 @@ mizoginistycznych ideologii rozprzestrzeniających się wśród mężczyzn.
 
 # Kobieta kobiecie kobietą
 
-Powszechnie wiadomo, zarówno w kulturze popularnej jak i w literaturze naukowej,
+Powszechnie wiadomo, zarówno w kulturze popularnej jak i w literaturze
+naukowej[^vil],
 że kobiety w swojej rywalizacji o najatrakcyjniejszych mężczyzn stosują wobec innych kobiet 
-**agresję pośrednią** (ang. *indirect aggression*), tj. plotkowanie, obgadywanie,
-ostracyzm społeczny. Zamiast tak jak mężczyźni rzucać bezpośrednio wyzwanie
-rywalom, kobiety wolą używać tych bardziej zawoalowanych metod.[^vil] Niektóre
+tzw. agresję pośrednią (ang. *indirect aggression*), tj. **plotkowanie, obgadywanie,
+ostracyzm społeczny**. Zamiast tak jak mężczyźni rzucać bezpośrednio wyzwanie
+rywalom, kobiety wolą używać tych bardziej zawoalowanych metod. Niektóre
 (choć trzeba przyznać, że nie wszystkie) badania sugerują, że takie
 ataki są szczególnie mocno skierowane przeciwko najatrakcyjniejszym
 paniom i że są one skuteczne: strach przed tymi metodami skutecznie powstrzymuje
-kobiety przed swobodnym manifestowaniem swoich wdzięków.[^powstrzymywanie]
+kobiety przed swobodnym manifestowaniem swoich wdzięków[^powstrzymywanie].
 
 Coraz więcej publicystów zauważa, że kobieca rywalizacja może mieć na
 celu nie tylko zapewnienie sobie opieki, lojalności i materiału genetycznego
@@ -59,20 +59,20 @@ tej samej płci, aby zaskarbić sobie zainteresowanie i często wierność najba
 Ta rywalizacja ma jednak również nieoczywistą stronę: Taką, w której staramy się,
 aby nasi konkurenci mieli jak najmniej potomstwa, a więc językiem naukowym
 dążymy
-do **supresji reprodukcyjnej**.[^supresja] Uzasadnienie jest właściwie proste,
+do *supresji reprodukcyjnej*[^supresja]. Uzasadnienie jest właściwie proste,
 ale wymaga trochę zastanowienia: Jeśli postaramy się, żeby inni mieli jak najmniej
 dzieci, nie zmieniając przy tym naszych szans na rozmnażanie, to w przyszłych
 pokoleniach kopie naszych genów będą stanowiły większy odsetek całej populacji.
 Gdybyśmy wszyscy mogli się rozmnażać bez ograniczeń, nie miałoby to znaczenia.
-Ale w historii naszego gatunku prawie zawsze ograniczała nas dostępność zasobów
+Ale w historii naszego gatunku zdarzały się okresy, gdy ograniczała nas dostępność zasobów
 takich jak jedzenie czy atrakcyjne terytorium. Zarówno my jak i nasi potomkowie w przyszłości musimy
 być przygotowani, żeby zagarnąć ich jak najwięcej dla siebie. Jednym ze
 sposobów na ułatwienie tej konkurencji nosicielom naszych
 genów jest wyeliminowanie niektórych ich rywali jeszcze zanim się narodzą.
 
 Co ciekawe, u wielu gatunków tę strategię zaobserwowano tylko przy
-wysokiej gęstości zaludnienia.[^population_density] Nie trzeba chyba dodawać,
-że z wysoką gęstością zaludnienia mamy do czynienia w miastach coraz bardziej
+wysokiej gęstości zaludnienia[^population_density]. Nie trzeba chyba dodawać,
+że z wysoką gęstością zaludnienia mamy do czynienia obecnie w miastach coraz bardziej
 urbanizujących się społeczeństw.
 
 # Mam rady i nie zawaham się ich użyć
@@ -85,7 +85,7 @@ laboratorium, pytając poddane badaniu kobiety o to, jak bardzo hipotetyczne
 klientki salonu fryzjerskiego powinny skrócić swoje włosy. Badanie forów dla matek zostało przeprowadzone
 przez studentów dr. Sulikowskiej i nie zostało jeszcze opublikowane w
 czasopismach naukowych; badanie dot. skracania włosów natomiast doczekało się
-już publikacji.[^hair]
+już publikacji[^hair].
 
 Mnie na myśl przychodzą też inne szkodliwe rady i opinie, których
 propagowanie ciężko wyjaśnić inaczej niż jako psychologiczną broń w rywalizacji
@@ -93,8 +93,8 @@ kobiet z innymi kobietami. Na pierwsze miejsce wysuwa się normalizowanie
 otyłości, tak powszechne w zachodnich mediach.
 
 Naiwnie można by sądzić, że gdy
-media przedstawiają nadwagę jako coś normalnego i neutralnego lub nawet
-pożądanego i atrakcyjnego, próbują w ten sposób zmienić to, jak grubi ludzie są
+media przedstawiają nadwagę jako coś normalnego lub nawet
+pożądanego, próbują w ten sposób zmienić to, jak grubi ludzie są
 postrzegani przez resztę społeczeństwa. Ale może być też prawdą, że autorki
 takich kampanii chcą, żeby jak najwięcej kobiet poddało się w swoich staraniach
 o smukłą sylwetkę. W końcu prawie wszystkie takie kampanie są adresowane do
@@ -105,7 +105,7 @@ słabego zdrowia i charakteru jak nadmiarowe dziesiątki kilogramów.
 
 Kolejnym przykładem są właśnie tematy artykułów z prasy dla kobiet, do których nawiązałem
 we
-wstępie: Promowanie samotności i rozwiązłości. Wiele młodych kobiet ignoruje
+wstępie: Promowanie samotności i zdrad. Wiele młodych kobiet ignoruje
 mądrości swoich matek oraz babć i odkłada decyzję o związaniu się i założeniu
 rodziny do wieku, kiedy nie są już atrakcyjne dla mężczyzn, a ich zegar
 biologiczny tyka coraz głośniej. To opóźnienie jest tym bardziej
@@ -116,16 +116,10 @@ Na domiar złego, często uważają, że ich sukcesy zawodowe i finansowe (do kt
 zachęcała je prasa kobieca), powinny być doceniane przez mężczyzn. Ci jednak
 cenią w kobietach zupełnie inne aspekty.
 
-Podobnie z rozwiązłością. Intensywne eksplorowanie własnej seksualności przez
-młode kobiety nie jest oczywiście niczym złym, ale czyni je mało atrakcyjnymi
-kandydatkami do poważnego związku w oczach mężczyzn. Zwłaszcza, jeśli taka
-eksploratorka z dumą dokumentuje swoje osiągnięcia lub przemyślenia na ich temat
-w internecie albo opowiada o nich mało dyskretnym znajomym. 
-
 Nie trzeba chyba tłumaczyć, dlaczego zachęcanie do pozamałżeńskich romansów i
 zdrad jest szkodliwe dla odbiorczyń tych materiałów: Kobiety bezmyślnie
 podążające za takimi radami ryzykują rozpad małżeństwa, co musi fatalnie odbić się
-na ich przyszłych szansach reprodukcyjnych - jeśli planują jeszcze mieć dzieci -
+na ich przyszłych szansach reprodukcyjnych - jeśli planują jeszcze mieć potomstwo -
 i na życiowych perspektywach ich żyjących już dzieci - jeśli te nie osiągnęły
 jeszcze samodzielności i nadal pozostają w rodzinnym domu.
 
@@ -135,53 +129,56 @@ Do tej pory skupiłem się na materiałach kierowanych do kobiet, ale możemy te
 zmniejszających szanse na rywalizację z ich strony. Są to oczywiście ruchy
 MGTOW[^mgtow]
 i blackpill[^blackpill], a w polskiej wersji społeczność gromadząca się na portalu Wykop pod
-tagiem przegryw.[^przegryw]
+tagiem przegryw[^przegryw].
 
 Ruch MGTOW (z ang. *men going their own way* - mężczyźni podążający własną drogą)
 głosi, że mężczyźni powinni unikać wiązania się z kobietami. W skrajniejszej
-wersji dotyczy do jakichkolwiek kontaktów z kobietami, a nawet ze społeczeństwem
+wersji dotyczy to jakichkolwiek kontaktów z kobietami, a nawet ze społeczeństwem
 w ogóle. W łagodniejszej wersji unikać należy jedynie poważnych związków, ale
 niekoniecznie krótkich, przelotnych znajomości.
 Uzasadnieniem ma być dwulicowa natura kobiet, które według tego ruchu w młodym
 wieku są rozwiązłe, oferując swoje wdzięki tylko wąskiej grupie
 najbardziej atrakcyjnych mężczyzn, a na starość godzą się na związek z mniej atrakcyjnym
-mężczyzną, wykorzystując jego majątek, ale często odmawiając mu seksu,[^betabankomat]
+mężczyzną, wykorzystując jego majątek, ale często odmawiając mu seksu[^betabankomat],
 a nawet zdradzając go z tymi bardziej pożądanymi.
 Pomimo tej niesprawiedliwej dla większości mężczyzn dynamiki, instytucje społeczne i
 państwowe, a zwłaszcza sądy rodzinne, mają faworyzować kobiety a dyskryminować mężczyzn.
 
 Ideologia blackpill dostarcza najbardziej skrajnych uzasadnień do wykluczenia
 się z życia społecznego i poszukiwań partnerki. Głosi ona, że to geny 
-całkowicie determinują atrakcyjność mężczyzny. Prowadzi to do konkluzji, że
-jakiekolwiek próby zwiększenia swojej atrakcyjności przez mężczyzn są skazane na
-porażkę. Pod wpływem takich poglądów młodym mężczyznom, którzy nie mieli do tej pory sukcesu z kobietami,
+całkowicie determinują atrakcyjność mężczyzny, a zatem
+jakiekolwiek formy pracy nad sobą i próby zwiększenia swojej atrakcyjności są skazane na
+porażkę. Pod wpływem takich sugestii, młodym mężczyznom, którzy nie mieli do tej pory sukcesu z kobietami,
 łatwo uwierzyć, że już całe życie będą się mierzyć w tej sferze z niepowodzeniem.
 
 To, że 
-propagowanie takich teorii zmniejsza rywalizację
+propagowanie podobnych teorii zmniejsza rywalizację
 ze strony mężczyzn, jest oczywiste. W przeciwieństwie do kobiecej wersji
 szkodliwych rad, nie doczekały się one jednak publikacji w mediach masowych.
 Póki co, takie głosy ograniczają się do grup dyskusyjnych i forów w internecie,
 choć cieszą się coraz większym zainteresowaniem.
 
-# Mężczyźni i kobiety 
+# Co z tym zrobić?
 
-Jak widać, obie skrajne ideologie, które wydają się być wymierzone w płeć przeciwną,
-mogą tak naprawdę stanowić broń psychologiczną w skrytej walce z osobami tej samej płci.
-Warto pamiętać że oba te ruchy są tylko skrajnościami,
-choć aktywność w mediach społecznościowych może sugerować inaczej, warto
-pamiętać, że obie skrajności, zniechęcanie zarówno kobiet jak i mężczyzn do tworzenia
-i kontynuowania związków, są właśnie tym - skrajnościami. To jak często takie
-głosy pojawiają się w przestrzeni publicznej, odzwierciedla nie ich popularność, 
-a to, ile wywołują emocji i ile generują kliknięć.
+Jeśli przedstawiona tu interpretacja jest trafna, prowadzi do
+niekomfortowego wniosku: znaczna część konfliktów płci, które obserwujemy w
+mediach i internecie, nie wynika z realnej „wojny kobiet z mężczyznami”, lecz z
+rywalizacji wewnątrzpłciowej, ubranej w język emancypacji, sprawiedliwości lub
+rozgoryczenia.
 
-Ta psychologiczna wojna zgorzkniałych kobiet ze zwykłymi kobietami oraz
-zgorzkniałych mężczyzn ze zwykłymi mężczyznami zasługuje na to, żeby znaleźć się
-i pozostać w mało uczęszczanych zakamarkach internetu. Przedstawiciele obu
-skrajności napędzają siebie nawzajem. Mizogini mogą wskazywać na skrajne
-feministki jako przykład kobiet, które nie są warte wchodzenia w intymne relacje, a
-feministki - mizoginów. 
+Z perspektywy jednostki najrozsądniejszą strategią obronną nie jest przyłączanie
+się do którejkolwiek ze skrajnych narracji, lecz zachowanie sceptycyzmu wobec rad
+i ideologii, które zniechęcają do budowania relacji, przedstawiają drugą płeć
+jako wrogo nastawioną lub bagatelizują biologiczne ograniczenia
+związane z atrakcyjnością. Zarówno kobiety, jak i mężczyźni mają realny interes w tym, by nie dać się
+wciągnąć w narracje, które obiecują dają krótkotrwały upust emocjom, kosztem długofalowych
+szans na satysfakcjonujące życie erotyczne i rodzinne.
 
+Psychologiczna wojna wewnątrz płci nie musi być prowadzona świadomie, by była
+skuteczna. Wystarczy, że będzie powielana bezrefleksyjnie. Najprostszą formą
+oporu jest odmowa uczestnictwa i traktowanie intymnych rad pochodzących od
+frustratów i frustratek z taką
+samą ostrożnością, jak porad finansowych pochodzących od bankrutów.
 
 [^supresja]: Ang. *reproductive suppression*. Wikipedia: https://en.wikipedia.org/wiki/Reproductive_suppression
 [^agresja_posrednia]: Ang. *indirect aggression*.
