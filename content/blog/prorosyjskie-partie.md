@@ -2,7 +2,7 @@
 date = '2025-12-21T17:00:53+01:00'
 draft = true
 title = 'Prorosyjskie Partie'
-tags = ["Polska", "Rosja", "polityka"]
+tags = ["Polska", "Rosja", "polityka", "sieci społecznościowe", "Ameryka", "Chiny"]
 +++
 
 Prorosyjskie partie zadomowiły się w polskiej polityce na dobre, walcząc o
@@ -105,31 +105,42 @@ szczególnie w przypadku ważnych polityków. Jest też już niepotrzebna. Do
 wydawania zaleceń Rosja może użyć tego samego kanału, którym wynagradza swoje
 partie.
 
-Wystarczy, sztucznie generowanymi wyświetleniami nagradzać tylko te materiały
-usłużnych polityków, które najbardziej odpowiadają wrogiemu państwu. Usłużni
-politycy mogą twierdzić, że nie zdają sobie sprawy, skąd te zasięgi naprawdę
+Wystarczy sztucznie generowanymi wyświetleniami nagradzać tylko te materiały
+usłużnych polityków, które najbardziej odpowiadają wrogiemu państwu. Tak
+sterowani
+ludzie mogą twierdzić, że nie zdają sobie sprawy, skąd te zasięgi naprawdę
 pochodzą i że uważają je za prawdziwe zainteresowanie wyborców. Daje im to
 jednocześnie sygnał, jakie poglądy są od nich oczekiwane. Jest to
 klasyczny przykład *plausible deniability*,[^deniability] a więc możliwości
 wyparcias się swoich prawdziwych intencji.
 
 Dla mocodawców ryzyko, że tacy politycy w końcu wybiją się na niezależność jest
-niewielkie. Dopóki ich poparcie pozostaje niskie, są cały czas zależni od
-sztucznego wsparcia z zagranicy. A jeśli spróbują się wyrwać, zawsze można to
-wsparcie przekierować na kogoś bardziej posłusznego. Możliwe, że z takim
-manewrem mieliśmy do czynienia w tym roku. Jeśli natomiast uzyskają
+niewielkie. 
+Nawet jeśli uzyskają
 popularność na tyle dużą, że sama się napędza, nadal pozostają zależni od elektoratu,
-który przywiązał się już do konkretnych haseł. To przywiązanie do elektoratu
+który przywiązał się już do konkretnych haseł. (To przywiązanie do elektoratu
 wydzieliśmy szczególnie wyraźnie w ostatniej kampanii prezydenckiej, gdy
 Sławomir Mentzen próbował ustawić się symetrzycznie pomiędzy dwoma kandydatami,
-ale ostatecznie musiał podkulić ogon i opuścić tę pozycję.
+ale ostatecznie musiał podkulić ogon i opowiedzieć się za jedną ze stron.)
+Natomiast dopóki poparcie takich partii pozostaje niskie, są one cały czas zależne od
+sztucznego wsparcia z zagranicy. A jeśli spróbują się wyrwać, zawsze można to
+wsparcie przekierować na kogoś bardziej posłusznego. (Możliwe, że z takim
+manewrem mieliśmy do czynienia w tym roku.)
+
+Stąd wypływa wniosek, że problemem są tu nie konkretni ludzie, ale system, który
+jest podatny na takie manipulacje. Nawet gdyby prorosyjscy politycy wiedzeni
+głosem sumienia skręcili na inny kurs, szybko odpłynęliby w niepamięć, a na ich miejsce znaleźliby się
+inni w naszym 38-milionowym narodzie. Tak jak w profesji handlarzy używanych samochodów
+czy taksówkarzy przed spopularyzowaniem aplikacji, system odrzuca przyzwoitych
+ludzi, a nagradza tych zepsutych.
 
 # Dlaczego to możliwe
 
 Takie praktyki można by w dużej mierze ukrócić, ale nie jest to w interesie
-platform, które mają dostęp do niezbędnych danych. Przede wszystkim rosyjskie kampanie
+platform, które jako jedyne mają dostęp do niezbędnych danych. Przede wszystkim rosyjskie kampanie
 dezinformacyjne, polityczne i propagandowe przynoszą im realne
-zyski[^fb_politico][^fb_ria]. Co ważniejsze obecnie, ich prezesi są
+zyski[^fb_politico][^fb_ria]. Co ważniejsze obecnie, prezesi amerykańskich
+platform są
 gotowi podporządkować się życzeniom prezydenta Trumpa, a temu nie w smak jest
 badanie wpływów rosyjskich: w przeszłości potwierdzono 11 przypadków, kiedy sam utrudniał
 śledztwa dotyczące rosyjskich wpływów na jego zwycięstwo[^trump_obstruction], a
@@ -148,6 +159,20 @@ społecznościowe systematycznie i konsekwentnie utrudniają dostęp do niezbęd
 danych badaczom i śledczym[^data_senate][^data_eu][^data_arxiv]. Rosyjskie machinacje
 udaje się ukrócić tylko, kiedy osiągną one ekstremalny rozmiar, jak to było w
 przypadku rumuńskich wyborów prezydenckich.
+
+# Podsumowanie
+
+Ten model wpływu nie opiera się na znalezieniu wyjątkowo głupich lub
+sprzedajnych
+jednostek. Jego podstawą jest przemyślane wykorzystanie systemowych słabości naszej
+przestrzeni informacyjnej: Polska debata polityczna odbywa się na platformach
+amerykańskich i chińskich, a nadawać jej ton może państwo najbardziej
+zdeterminowane i pozbawione ograniczeń w stosowaniu bezpardonowej propagandy,
+dzięki autorytarnemu ustrojowi i obojętności na koszty dyplomatyczne.
+W takim systemie wyjątkowo głupie lub sprzedajne jednostki nie muszą być szukane — one same się znajdują.
+
+Dopóki oddajemy nasze myśli, treści i uwagę zewnętrznym mocarstwom, sami się na
+takie manipulacje wystawiamy.
 
 [^shroder]: Wikipedia: https://pl.wikipedia.org/wiki/Gerhard_Schr%C3%B6der#Gazprom
 [^spd]: https://www.rp.pl/polityka/art38056071-byly-kanclerz-gerhard-schroeder-nie-odpowie-za-zwiazki-z-rosja-moze-zostac-w-spd
