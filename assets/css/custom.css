@@ -1,3 +1,11 @@
+.sidebar__logo {
+    height: 127px;
+}
+
+.sidebar__introduction {
+    width: 100%;
+}
+
 body {
     font-family: -apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen,Ubuntu,Cantarell,open sans,helvetica neue,sans-serif;
     font-size: 18px;

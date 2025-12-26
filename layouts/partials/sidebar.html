@@ -9,27 +9,18 @@
     <div class="sidebar__introduction">
 
 
+            <a href="{{ .Site.BaseURL | relLangURL }}">
       <img
-        class="sidebar__introduction-profileimage"
+        class="sidebar__logo"
         src="{{ .Site.Params.profilePicture | relURL }}"
-        alt="pp"
+        alt="{{ .Site.Params.Title }}"
       />
+            </a>
           <div class="themeswitch">
             <a title="Switch Theme">
               <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
             </a>
           </div>
-      {{ if .IsHome }}
-        <div class="sidebar__introduction-title">
-          <h1>
-            <a href="{{ .Site.BaseURL | relLangURL }}">{{ .Site.Params.Title }}</a>
-          </h1>
-        </div>
-      {{ else }}
-        <div class="sidebar__introduction-title">
-          <a href="{{ .Site.BaseURL | relLangURL }}">{{ .Site.Params.Title }}</a>
-        </div>
-      {{ end }}
       <div class="sidebar__introduction-description">
         <p>{{ replace .Site.Params.description "\n" "<br />" | safeHTML }}</p>
       </div>

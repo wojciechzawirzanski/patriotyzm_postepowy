@@ -6,7 +6,7 @@
       <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}"
          class="tag-item"
          data-count="{{ len $taxonomy }}">
-        {{ $name }}
+        {{ $taxonomy.Page.Title }}
       </a>
     {{ end }}
   </div>

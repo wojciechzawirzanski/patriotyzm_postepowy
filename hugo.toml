@@ -8,5 +8,9 @@ theme = "anatole"
     disableTitleCapitalization = true
     disableArchiveTitleStyling  = true
     customCss = ["css/custom.css"]
+    profilePicture="/images/logo.png"
+    title = "Patriotyzm postępowy"
+    preserveTaxonomyNames = true
+
 [taxonomies]
 tag = "tags"
