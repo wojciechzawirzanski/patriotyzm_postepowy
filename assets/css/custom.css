@@ -1,5 +1,23 @@
 body {
-    font-family: initial;
+    font-family: -apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen,Ubuntu,Cantarell,open sans,helvetica neue,sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+    word-break: break-word;
+    --gap: 24px;
+    --main-width: 720px;
+}
+
+main {
+    padding: var(--gap);
+    text-align: justify;
+      align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+
+main > div {
+    max-width: calc(var(--gap)*2 + var(--main-width));
 }
 
 .theme--light .body {
