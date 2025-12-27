@@ -7,20 +7,22 @@
 >
   <div class="sidebar__content">
     <div class="sidebar__introduction">
+        <div class="sidebar-intro-header">
 
 
             <a href="{{ .Site.BaseURL | relLangURL }}">
-      <img
-        class="sidebar__logo"
-        src="{{ .Site.Params.profilePicture | relURL }}"
-        alt="{{ .Site.Params.Title }}"
-      />
+          <img
+            class="sidebar__logo"
+            src="{{ .Site.Params.profilePicture | relURL }}"
+            alt="{{ .Site.Params.Title }}"
+          />
             </a>
           <div class="themeswitch">
             <a title="Switch Theme">
               <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
             </a>
           </div>
+        </div>
       <div class="sidebar__introduction-description">
         <p>{{ replace .Site.Params.description "\n" "<br />" | safeHTML }}</p>
       </div>
