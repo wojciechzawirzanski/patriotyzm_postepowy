@@ -157,6 +157,36 @@ a.footnote-ref {
     color: var(--crimson);
 }
 
+/* Override tag color in post__meta to match text color - more specific selector */
+.theme--light .post__content .post__meta .tag,
+.theme--light .post__meta .tag {
+    color: var(--chr-def-color) !important;
+    font-size: 1.4rem;
+}
+
+.theme--dark .post__content .post__meta .tag,
+.theme--dark .post__meta .tag {
+    color: inherit !important;
+    font-size: 1.4rem;
+}
+
+/* Align date and tags vertically */
+.post__meta {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.post__meta .fas {
+    vertical-align: middle;
+}
+
+.post__meta .post__footer-date {
+    vertical-align: middle;
+    line-height: 1.4rem;
+}
+
 /* Dark mode */
 .theme--dark .tag-item,
 .theme--dark .tag

@@ -18,33 +18,7 @@
         {{ else }}
           <h3><a href="{{ .RelPermalink }}">{{ upper .Title }}</a></h3>
         {{ end }}
-      <div class="post__meta">
-        <em class="fas fa-calendar-day"></em>
-        <span class="post__footer-date"
-          >{{ if isset .Site.Params "indexdateformat" }}
-            {{ if .Site.Params.localizedDates }}
-              {{ time.Format .Site.Params.indexDateFormat .Date }}
-            {{ else }}
-              {{ .Date.Format .Site.Params.indexDateFormat }}
-            {{ end }}
-
-          {{ else }}
-            {{ if .Site.Params.localizedDates }}
-              {{ time.Format "02.01.2006" .Date }}
-            {{ else }}
-              {{ .Date.Format "Mon, Jan 2, 2006" }}
-            {{ end }}
-
-          {{ end }}</span
-        >
-        {{ with .Page.Params.Categories }}
-          {{ partial "taxonomy/categories.html" . }}
-        {{ end }}
-
-        {{ with .Page.Params.Tags }}
-          {{ partial "taxonomy/tags.html" . }}
-        {{ end }}
-      </div>
+      {{- partial "post-meta.html" . -}}
         {{ if .Site.Params.fullPostContent }}
           <p>{{ .Content | safeHTML | plainify }}</p>
         {{ else }}
