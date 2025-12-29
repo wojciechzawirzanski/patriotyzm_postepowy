@@ -1,11 +1,27 @@
 @media screen and (min-width: 961px) {
 .wrapper__sidebar {
     width: 40%;
+    position: sticky;
+    top: 0px;
+    min-height:100vh;
+    display: block;
+    align-self: flex-start;
 }
 main {
     padding: var(--gap);
 }
 }
+
+
+.wrapper {
+    width: 100%;
+
+}
+.sidebar.animated {
+  animation: none !important;
+  transform: none !important;
+}
+
 
 .wrapper__main {
     width: 100%;
@@ -112,9 +128,11 @@ main > div {
     background-color: var(--chr-def-bg-color);
 }
 .sidebar{
-    overflow-y: auto;
     position: sticky;
     width: 100%;
+    align-self: flex-start;
+    top: 1.5rem;
+    display:block;
 }
 .footnote-tooltip {
   position: absolute;
@@ -213,11 +231,27 @@ a.footnote-ref {
 }
 
 .theme--dark .tag-item:hover,
-.theme--dark .tag:hover,
+.theme--dark .tag:hover
 {
   background: #dc143c;
 }
 
 .tag::before {
     content: "";
+}
+
+.newsletter-form {
+  display: flex;
+  gap: 0.5rem;
+}
+.newsletter-form > * {
+    font-size:2.0rem;
+    border-color: var(--crimson);
+    background-color: inherit;
+    font-weight: bold;
+    color: inherit;
+}
+
+.newsletter-form input {
+  flex: 1;
 }

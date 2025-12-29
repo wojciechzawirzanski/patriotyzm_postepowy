@@ -43,6 +43,9 @@
       {{ end }}
     </ul>
       {{- partial "tag-cloud.html" . -}}
+
+      {{- partial "newsletter.html" . -}}
+
   </div>
 
   {{- partial "footer.html" (dict "context" . "footerClassModifier" "sidebar") -}}
