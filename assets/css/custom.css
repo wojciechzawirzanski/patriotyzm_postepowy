@@ -1,3 +1,14 @@
+@media screen and (min-width: 961px) {
+.wrapper__sidebar {
+    width: 40%;
+}
+}
+
+.wrapper__main {
+    width: 100%;
+    max-width: 100%;
+}
+
 
 .sidebar__content {
     margin: 1.5em;
@@ -12,7 +23,8 @@
 }
 
 .sidebar__logo {
-    height: 127px;
+    max-height: 15rem;
+    width: 100%;
 }
 
 .sidebar__introduction {
@@ -21,11 +33,10 @@
 
 body {
     font-family: -apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen,Ubuntu,Cantarell,open sans,helvetica neue,sans-serif;
-    font-size: 18px;
     line-height: 1.6;
     word-break: break-word;
-    --gap: 24px;
-    --main-width: 720px;
+    --gap: 1.5rem;
+    --main-width: 80rem;
     --crimson: #dc143c; /* Polish red accent */
 }
 
@@ -36,6 +47,7 @@ main {
   justify-content: center;
   display: flex;
   flex-direction: column;
+    width: 100%;
 }
 
 main > div {
@@ -96,11 +108,12 @@ main > div {
 }
 .sidebar{
     overflow-y: auto;
+    position: sticky;
+    width: 100%;
 }
 .footnote-tooltip {
   position: absolute;
-  max-width: 420px;
-  background: #fff;
+  max-width: 50rem;
   color: #111;
   border: 1px solid #ccc;
   padding: 0.75em 1em;
