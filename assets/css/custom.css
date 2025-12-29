@@ -34,13 +34,16 @@ main {
     width: 100%;
 }
 
-body {
+* {
     font-family: -apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen,Ubuntu,Cantarell,open sans,helvetica neue,sans-serif;
+}
+body {
     line-height: 1.6;
     word-break: break-word;
     --gap: 1.5rem;
-    --main-width: 80rem;
+    --main-width: 100rem;
     --crimson: #dc143c; /* Polish red accent */
+    font-size: 2.0rem;
 }
 
 main {
@@ -119,7 +122,7 @@ main > div {
   color: #111;
   border: 1px solid #ccc;
   padding: 0.75em 1em;
-  font-size: 1.5rem;
+  font-size: 2.0rem;
   line-height: 1.4;
   box-shadow: 0 6px 18px rgba(0,0,0,0.2);
   border-radius: 6px;
@@ -132,7 +135,7 @@ main > div {
 }
 
 .tag-cloud h3 {
-  font-size: 1.5rem;
+  font-size: 2.0rem;
   margin-bottom: 0.75rem;
   font-weight: 600;
 }
@@ -144,7 +147,7 @@ main > div {
 }
 
 .tag-item, a.tag {
-  font-size: 1.5rem;
+  font-size: 1.75rem;
   padding: 0.25em 0.5em;
   border-radius: 4px;
   text-decoration: none;
@@ -176,13 +179,13 @@ a.footnote-ref {
 .theme--light .post__content .post__meta .tag,
 .theme--light .post__meta .tag {
     color: var(--chr-def-color) !important;
-    font-size: 1.4rem;
+    font-size: 1.75rem;
 }
 
 .theme--dark .post__content .post__meta .tag,
 .theme--dark .post__meta .tag {
     color: inherit !important;
-    font-size: 1.4rem;
+    font-size: 1.75rem;
 }
 
 /* Align date and tags vertically */
