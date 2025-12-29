@@ -2,6 +2,9 @@
 .wrapper__sidebar {
     width: 40%;
 }
+main {
+    padding: var(--gap);
+}
 }
 
 .wrapper__main {
@@ -41,7 +44,6 @@ body {
 }
 
 main {
-    padding: var(--gap);
     text-align: justify;
       align-items: center;
   justify-content: center;
