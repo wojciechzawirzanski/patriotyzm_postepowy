@@ -1,0 +1,23 @@
+{{ define "main" }}
+  <div
+    class="archive {{ with .Site.Params.doNotLoadAnimations }}
+      .
+    {{ else }}
+      animated fadeInDown
+    {{ end }}"
+  >
+    <div class="post">
+      <div class="post__content">
+        {{ if (eq .Site.Params.disableTitleCapitalization true) }}
+          <h1>{{ .Title }}</h1>
+        {{ else }}
+          <h1>{{ title .Title }}</h1>
+        {{ end }}
+      </div>
+    </div>
+    
+    {{ range .Pages }}
+      {{ partial "post-listing.html" . }}
+    {{ end }}
+  </div>
+{{ end }}
