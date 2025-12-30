@@ -23,28 +23,12 @@
             </a>
           </div>
         </div>
-      <div class="sidebar__introduction-description">
-        <p>{{ replace .Site.Params.description "\n" "<br />" | safeHTML }}</p>
-      </div>
     </div>
-    <ul class="sidebar__list">
-      {{ range $item := .Site.Params.socialIcons }}
-        <li class="sidebar__list-item">
-          <a
-            href="{{ $item.url }}"
-            target="_blank"
-            rel="noopener me"
-            aria-label="{{ $item.title }}"
-            title="{{ $item.title }}"
-          >
-            <i class="{{ $item.icon }} fa-2x" aria-hidden="true"></i>
-          </a>
-        </li>
-      {{ end }}
-    </ul>
       {{- partial "tag-cloud.html" . -}}
 
       {{- partial "newsletter.html" . -}}
+
+      {{- partial "social.html" . -}}
 
   </div>
 
