@@ -1,6 +1,6 @@
 +++
 date = '2025-12-21T17:00:53+01:00'
-title = 'Prorosyjskie Partie'
+title = 'Jak Rosja kontroluje swoje partie w Polsce'
 tags = ["Polska", "Rosja", "polityka", "sieci społecznościowe", "Ameryka", "Chiny"]
 +++
 
@@ -111,20 +111,21 @@ ludzie mogą twierdzić, że nie zdają sobie sprawy, skąd te zasięgi naprawd�
 pochodzą i że uważają je za prawdziwe zainteresowanie wyborców. Daje im to
 jednocześnie sygnał, jakie poglądy są od nich oczekiwane. Jest to
 klasyczny przykład *plausible deniability*[^deniability], a więc możliwości
-wyparcias się swoich prawdziwych intencji.
+wyparcia się swoich prawdziwych intencji.
 
 Dla mocodawców ryzyko, że tacy politycy w końcu wybiją się na niezależność jest
 niewielkie. 
 Nawet jeśli uzyskają
 popularność na tyle dużą, że sama się napędza, nadal pozostają zależni od elektoratu,
 który przywiązał się już do konkretnych haseł. (To przywiązanie do elektoratu
-wydzieliśmy szczególnie wyraźnie w ostatniej kampanii prezydenckiej, gdy
-Sławomir Mentzen próbował ustawić się symetrzycznie pomiędzy dwoma kandydatami,
+widzieliśmy szczególnie wyraźnie w ostatniej kampanii prezydenckiej, gdy
+Sławomir Mentzen próbował ustawić się symetrycznie pomiędzy dwoma kandydatami,
 ale ostatecznie musiał podkulić ogon i opowiedzieć się za jedną ze stron.)
 Natomiast dopóki poparcie takich partii pozostaje niskie, są one cały czas zależne od
 sztucznego wsparcia z zagranicy. A jeśli spróbują się wyrwać, zawsze można to
 wsparcie przekierować na kogoś bardziej posłusznego. (Możliwe, że z takim
-manewrem mieliśmy do czynienia w tym roku.)
+manewrem mieliśmy do czynienia w tym roku, kiedy otwarcie prorosyjska
+Konfederacja odebrała poparcie Konfederacji bardziej zawoalowanej.)
 
 Stąd wypływa wniosek, że problemem są tu nie konkretni ludzie, ale system, który
 jest podatny na takie manipulacje. Nawet gdyby prorosyjscy politycy wiedzeni
