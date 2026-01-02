@@ -9,7 +9,7 @@ interesy Rosji pod przykrywką troski o „realizm”, „suwerenność” lub �
 wobec establishmentu”. Krytycy z jednej strony zarzucają im działanie na
 zlecenie Kremla, z drugiej - oskarżają ich o bycie pożytecznymi idiotami i
 wspieranie wrogiego mocarstwa z głupoty. Obie oceny mogą być błędne. W tym
-artykule opiszę, jak Rosja steruje swoimi partiami w Polsce i wynagradza je, nie
+artykule opiszę, jak Rosja może sterować swoimi partiami w Polsce i wynagradzać je, nie
 narażając ich kierownictwa na odpowiedzialność karną.
 
 # Agenci wpływu dawniej i współcześnie
@@ -29,7 +29,7 @@ efektu.
 
 Dlatego państwa stosują zazwyczaj o wiele bardziej subtelne metody. Świetnym
 przykładem są tu finansowane przez niemiecki rząd[^kas_finanse][^boll_finansowanie] fundacje działające w krajach, na które nasi
-zachodni sąsiedzi chcą wywierać wpływy, w tym Polskę. Np. "Campus Polska
+zachodni sąsiedzi chcą wywierać wpływy, również w Polsce. Np. "Campus Polska
 Przyszłości", konferencja obecnie rządzących partii, finansowana
 była m.in. przez fundację Bolla oraz fundację
 Adenauera[^campus_sponsorzy],
@@ -125,7 +125,7 @@ Natomiast dopóki poparcie takich partii pozostaje niskie, są one cały czas za
 sztucznego wsparcia z zagranicy. A jeśli spróbują się wyrwać, zawsze można to
 wsparcie przekierować na kogoś bardziej posłusznego. (Możliwe, że z takim
 manewrem mieliśmy do czynienia w tym roku, kiedy otwarcie prorosyjska
-Konfederacja odebrała poparcie Konfederacji bardziej zawoalowanej.)
+Konfederacja nagle odebrała poparcie Konfederacji bardziej zawoalowanej.)
 
 Stąd wypływa wniosek, że problemem są tu nie konkretni ludzie, ale system, który
 jest podatny na takie manipulacje. Nawet gdyby prorosyjscy politycy wiedzeni
@@ -150,7 +150,7 @@ wysoko postawionymi oficerami rosyjskiego wywiadu[^nyt].
 Unia Europejska mogłaby wymagać większej transparentności i stanowczości od
 platform.
 Niestety Europa jest pod dużą presją ze strony amerykańskiej
-administracji, aby nie utrudniać gigantom technologicznym zza oceanu zarabiania
+administracji, aby nie utrudniać gigantom technologicznym zarabiania
 pieniędzy i nie ograniczać ich władzy nad umysłami wyborców.
 
 Choć Facebook publikuje raporty dotyczące rosyjskich kampanii z użyciem
@@ -170,7 +170,6 @@ amerykańskich i chińskich, a nadawać jej ton może państwo najbardziej
 zdeterminowane i pozbawione ograniczeń w stosowaniu bezpardonowej propagandy,
 dzięki autorytarnemu ustrojowi i obojętności na koszty dyplomatyczne.
 W takim systemie wyjątkowo głupie lub sprzedajne jednostki nie muszą być szukane — one same się znajdują.
-
 Dopóki oddajemy nasze myśli, treści i uwagę zewnętrznym mocarstwom, sami się na
 takie manipulacje wystawiamy.
 
