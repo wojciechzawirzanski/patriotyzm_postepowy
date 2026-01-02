@@ -14,9 +14,9 @@
       {{ end }}
       <div class="post__content">
         {{ if (eq .Site.Params.disableTitleCapitalization true) }}
-          <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+          <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
         {{ else }}
-          <h3><a href="{{ .RelPermalink }}">{{ upper .Title }}</a></h3>
+          <h2><a href="{{ .RelPermalink }}">{{ upper .Title }}</a></h2>
         {{ end }}
       {{- partial "post-meta.html" . -}}
         {{ if .Site.Params.fullPostContent }}
