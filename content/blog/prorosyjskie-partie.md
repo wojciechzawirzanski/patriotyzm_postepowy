@@ -1,6 +1,5 @@
 +++
 date = '2025-12-21T17:00:53+01:00'
-draft = true
 title = 'Prorosyjskie Partie'
 tags = ["Polska", "Rosja", "polityka", "sieci społecznościowe", "Ameryka", "Chiny"]
 +++
@@ -16,7 +15,7 @@ narażając ich kierownictwa na odpowiedzialność karną.
 # Agenci wpływu dawniej i współcześnie
 
 Kiedy mówimy o agentach wpływu kontrolowanych przez wywiad obcego państwa, na
-myśl przychodzą osoby takie jak Gerhard Schröder.[^shroder] Ten kanclerz Niemiec
+myśl przychodzą osoby takie jak Gerhard Schröder[^shroder]. Ten kanclerz Niemiec
 prowadził politykę prorosyjską, zwłaszcza w ostatnich dniach swoich rządów, a natychmiast po
 złożeniu urzędu zaczął otwarcie przyjmować wysokie wynagrodzenie od Rosji
 za pośrednictwem jej spółek kapitałowych. Co prawda nigdy nie udowodniono
@@ -33,13 +32,13 @@ przykładem są tu finansowane przez niemiecki rząd[^kas_finanse][^boll_finanso
 zachodni sąsiedzi chcą wywierać wpływy, w tym Polskę. Np. "Campus Polska
 Przyszłości", konferencja obecnie rządzących partii, finansowana
 była m.in. przez fundację Bolla oraz fundację
-Adenauera,[^campus_sponsorzy]
+Adenauera[^campus_sponsorzy],
 Te same fundacje sponsorują stypendia dla wybranych studentów, którzy rokują
-nadzieję na objęcie ważnych funkcji w Polsce w przyszłości.[^stypendia] Takie
+nadzieję na objęcie ważnych funkcji w Polsce w przyszłości[^stypendia]. Takie
 metody są bezpieczniejsze, bo nie przekraczają progu odpowiedzialności karnej i
 wywołują minimalne oburzenie opinii publicznej - o wątpliwych praktykach tych
 fundacji donoszą tylko media prawicowe o niskiej wiarygodności[^drz] i czasami
-niezależni eksperci o świetnej wiedzy, ale małych zasięgach.[^eksperci] Metody
+niezależni eksperci o świetnej wiedzy, ale małych zasięgach[^eksperci]. Metody
 te jednak mają też olbrzymią wadę: nie dają gwarancji na uzyskanie pożądanych
 rezultatów, a nawet jeśli działają, to bardzo powoli.
 
@@ -69,7 +68,7 @@ I wtedy wchodzi on, cały na biało: zasięg.
 
 W erze mediów społecznościowych widoczność
 stała się walutą polityczną samą w sobie. Jest jak samo-spełniająca
-się przepowiednia:[^przepowiednia]
+się przepowiednia[^przepowiednia]:
 Partia, która jest stale obecna w trendach i komentarzach na platformach
 społecznościowych, zaczyna być postrzegana jako istotna, a z czasem jako nie do
 pominięcia. Media zapraszają jej przedstawicieli, bo generują uwagę. Konkurenci reagują, bo nie
@@ -77,7 +76,7 @@ mogą ich ignorować. Wyborcy nabierają przekonania, że skoro dany przekaz jes
 wszędzie, to musi być ważny.
 
 Przy czym ten zasięg można wygenerować sztucznie przy odpowiednich nakładach
-technologicznych i finansowych, a Rosja robi to nagminnie.[^meta_threat] Co najważniejsze,
+technologicznych i finansowych, a Rosja robi to nagminnie[^meta_threat]. Co najważniejsze,
 nawet jeśli machinacje wrogiego państwa zostaną ujawnione, odbiorca takiej
 zapłaty może udawać, że cały proceder odbywa się bez jego zgody i udziału.
 
@@ -111,7 +110,7 @@ sterowani
 ludzie mogą twierdzić, że nie zdają sobie sprawy, skąd te zasięgi naprawdę
 pochodzą i że uważają je za prawdziwe zainteresowanie wyborców. Daje im to
 jednocześnie sygnał, jakie poglądy są od nich oczekiwane. Jest to
-klasyczny przykład *plausible deniability*,[^deniability] a więc możliwości
+klasyczny przykład *plausible deniability*[^deniability], a więc możliwości
 wyparcias się swoich prawdziwych intencji.
 
 Dla mocodawców ryzyko, że tacy politycy w końcu wybiją się na niezależność jest
@@ -179,7 +178,7 @@ takie manipulacje wystawiamy.
 [^campus_sponsorzy]: https://2023.campuspolska.pl/en/our-partners/
 [^stypendia]: https://www.eurodesk.pl/granty/program-stypendialny-dla-studentow
 [^kas_finanse]: https://pl.wikipedia.org/wiki/Fundacja_Konrada_Adenauera#Finansowanie
-[^boll_finansowanie]: https://pl.wikipedia.org/wiki/Fundacja_im._Heinricha_Bölla
+[^boll_finansowanie]: https://pl.wikipedia.org/wiki/Fundacja_im._Heinricha_B%C3%B6lla
 [^drz]: https://dorzeczy.pl/kraj/338728/rusza-campus-polska-kowalski-niemiecka-inwestycja.html
 [^eksperci]: https://podtail.com/podcast/niemcy-w-ruinie/s2e34-soft-power-jak-niemcy-wp-ywaj-na-innych/
 [^przepowiednia]: https://pl.wikipedia.org/wiki/Samospe%C5%82niaj%C4%85ca_si%C4%99_przepowiednia
@@ -192,5 +191,5 @@ takie manipulacje wystawiamy.
 [^trump_obstruction]: https://en.wikipedia.org/wiki/Mueller_report#Episodes_of_alleged_obstruction
 [^data_senate]: https://www.cnbc.com/2018/12/17/tech-companies-respond-to-senate-intelligence-committee-investigation.html
 [^data_eu]: https://poland.representation.ec.europa.eu/news/tiktok-i-meta-blokuja-dane-2025-10-27_pl
-[^data_arxiv]: [https://arxiv.org/abs/2506.09746](TikTok's Research API: Problems Without Explanations)
+[^data_arxiv]: [TikTok's Research API: Problems Without Explanations](https://arxiv.org/abs/2506.09746)
 [^nyt]: https://web.archive.org/web/20170302025649/https://www.nytimes.com/2017/02/14/us/politics/russia-intelligence-communications-trump.html

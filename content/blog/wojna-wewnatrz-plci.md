@@ -1,6 +1,5 @@
 +++
 date = '2025-12-14T12:03:07+01:00'
-draft = true
 title = 'Wojna (wewnątrz) płci'
 tags = ["Polska", "polaryzacja", "seks", "społeczeństwo"]
 +++

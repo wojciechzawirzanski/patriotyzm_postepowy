@@ -1,9 +1,7 @@
 +++
 date = '2025-12-11T14:46:58+01:00'
-draft = true
 title = 'Dostęp do broni już jest łatwiejszy w Polsce niż w Stanach Zjednoczonych'
 tags = ["broń", "Polska", "Ameryka", "prawo", "samoobrona"]
-thumbnail = "images/gun-pistol.jpg"
 +++
 
 W Polsce wciąż powiela się kłamstwo, że dostęp do broni palnej jest utrudniony.
